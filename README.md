@@ -20,6 +20,11 @@ Step:2
 ```bash
   npx tailwindcss init -p
 ```
+- To Clone this repo
+```bash
+git clone https://github.com/niravkhant/template-react-vite-redux.git
+```
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
